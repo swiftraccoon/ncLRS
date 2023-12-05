@@ -158,3 +158,18 @@ cython_debug/
 #  and can be added to the global gitignore or merged into this file.  For a more nuclear
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
+
+criminalOffender/Court_Commmitment/OFNT3BB1.csv
+criminalOffender/Disciplinary_Infractions/INMT9CF1.csv
+criminalOffender/Financial_Obligation/OFNT1BA1.csv
+criminalOffender/Impact_Scheduling_Request/APPT9BJ1.csv
+criminalOffender/Inmate_Profile/INMT4AA1.csv
+criminalOffender/Offender_Profile/OFNT3AA1.csv
+criminalOffender/Parole_Analyst_Review/INMT4CA1.csv
+criminalOffender/Probation_and_Parole_Client_Profile/APPT7AA1.csv
+criminalOffender/Sentence_Component/OFNT3CE1.csv
+criminalOffender/Sentence_Computations/INMT4BB1.csv
+criminalOffender/Special_Conditions_and_Sanctions/OFNT3DE1.csv
+criminalOffender/Warrant_Issued/OFNT9BE1.csv
+voters/ncvoter_Statewide.zip
+criminalOffender/DATABASE.db
